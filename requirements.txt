@@ -1,0 +1,7 @@
+selenium
+colorama
+customtkinter
+webdriver-manager
+cryptography
+keyring
+packaging

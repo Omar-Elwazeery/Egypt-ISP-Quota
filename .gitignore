@@ -1,0 +1,43 @@
+# Build outputs
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+geckodriver.log
+
+# Encrypted data (user-specific)
+accounts.enc
+
+# Generated executables
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PyInstaller temp
+*.manifest
+*.pem
+checkQuotaQuick.py
