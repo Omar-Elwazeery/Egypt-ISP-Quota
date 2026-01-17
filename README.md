@@ -18,7 +18,7 @@ A secure, modern desktop application to manage and check internet quotas for **W
 
 ## 📦 Installation & Usage
 
-1.  **Download** the latest release `.zip` from the [Releases](https://github.com/YOUR_USERNAME/Egypt-ISP-Quota/releases) page.
+1.  **Download** the latest release `.zip` from the [Releases](https://github.com/Omar-Elwazeery/Egypt-ISP-Quota/releases) page.
 2.  **Extract** the zip file to any folder.
 3.  **Run** `EgyptISPQuota.exe` from the extracted folder.
 4.  **No installation required**! The app stores your data securely in your local AppData folder.

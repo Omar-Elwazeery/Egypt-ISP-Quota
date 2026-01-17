@@ -29,9 +29,6 @@ geckodriver.log
 # Encrypted data (user-specific)
 accounts.enc
 
-# Generated executables
-*.exe
-
 # OS files
 .DS_Store
 Thumbs.db
